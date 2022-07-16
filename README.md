@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :eyes: I’m Will
+- :eyes: I’m Will, an aspiring software engineer
 - :computer: I'm a computer science student @ Lancaster Uni
 - 🌱 I’m currently learning Java, Python and C#
 - 👯 I’m looking to collaborate on open-source projects
